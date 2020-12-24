@@ -11,7 +11,6 @@ $empresas = ['empresas' => [
         ['usuario' => 'user2', 'password' => 'clave2'],
     ],
 ];
-
 echo json_encode($empresas);
 ?>    
 </body>
