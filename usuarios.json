@@ -1,0 +1,12 @@
+{
+  "empresas": [
+    {
+      "usuario": "algo",
+      "password": "clave"
+    },
+    {
+      "usuario": "algo1",
+      "password": "clave"
+    }
+  ]
+}
