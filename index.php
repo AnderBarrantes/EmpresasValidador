@@ -1,6 +1,6 @@
 <?php
 
-header('Content-Type: application/json');
+header('Content-Type: application/html');
 
 $empresas = ['empresas' => [
     ['usuario' => 'user1', 'password' => 'clave1'],
