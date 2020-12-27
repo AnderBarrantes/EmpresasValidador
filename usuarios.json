@@ -2,11 +2,13 @@
     "empresas": [
         {
             "usuario": "user1",
-            "password": "clave1"
+            "password": "clave1",
+            "base": "base1"
         },
         {
             "usuario": "user2",
-            "password": "clave2"
+            "password": "clave2",
+            "base": "base1"
         }
     ]
 }
