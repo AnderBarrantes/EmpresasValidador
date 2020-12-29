@@ -9,6 +9,11 @@
             "usuario": "user2",
             "password": "clave2",
             "base": "base1"
+        },
+        {
+            "usuario": "sjComercializadora",
+            "password": "123456",
+            "base": "San_Juan_Comercioalizadora"
         }
     ]
 }
