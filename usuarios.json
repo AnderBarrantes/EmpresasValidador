@@ -4,6 +4,11 @@
             "usuario": "sjComercializadora",
             "password": "123456",
             "base": "San_Juan_Comercializadora"
+        },
+		{
+            "usuario": "sjalmacenes",
+            "password": "123456",
+            "base": "san_juan_almacenes"
         }
     ]
 }
