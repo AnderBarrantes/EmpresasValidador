@@ -9,6 +9,11 @@
             "usuario": "sjalmacenes",
             "password": "123456",
             "base": "san_juan_almacenes"
+        },
+	{
+            "usuario": "contabilidad",
+            "password": "1234",
+            "base": "ItagrifDB"
         }
     ]
 }
