@@ -18,12 +18,14 @@
 	{
             "usuario": "polotex",
             "password": "1234",
-            "base": "DigitalB"
+            "base": "DigitalB",
+            "Ruc": "20441825481"
         },
 	{
             "usuario": "polmart",
             "password": "1234",
-            "base": "DigitalB"
+            "base": "DigitalB",
+            "Ruc": "20484252247"
         }
     ]
 }
