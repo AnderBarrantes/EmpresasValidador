@@ -14,6 +14,16 @@
             "usuario": "contabilidad",
             "password": "1234",
             "base": "ItagrifDB"
+        },
+	{
+            "usuario": "polotex",
+            "password": "1234",
+            "base": "DigitalB"
+        },
+	{
+            "usuario": "polmart",
+            "password": "1234",
+            "base": "DigitalB"
         }
     ]
 }
