@@ -26,6 +26,16 @@
             "password": "1234",
             "base": "DigitalB",
             "Ruc": "20484252247"
+        },
+	{
+            "usuario": "contabilidad",
+            "password": "1234",
+            "base": "royers"
+        },
+	{
+            "usuario": "contabilidad",
+            "password": "1234",
+            "base": "DosCentellas2"
         }
     ]
 }
