@@ -41,6 +41,14 @@
             "usuario": "contabilidad",
             "password": "1234",
             "base": "DosCentellas2"
+        },
+	{
+            "usuario": "prueba",
+            "password": "1234",
+            "base": "DosCentellas2",
+            "Ruc": "20481688923",
+            "UsuarioSol": "ANGEEDAI",
+            "ClaveSol": "*,moiras12",
         }
     ]
 }
