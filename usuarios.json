@@ -43,6 +43,16 @@
             "base": "DosCentellas2"
         },
 	{
+            "usuario": "contabilidad",
+            "password": "123456",
+            "base": "coffee_guay"
+        },
+	{
+            "usuario": "contabilidad",
+            "password": "123456",
+            "base": "cescafeco_cruz"
+        },
+	{
             "usuario": "prueba",
             "password": "1234",
             "base": "DosCentellas2",
